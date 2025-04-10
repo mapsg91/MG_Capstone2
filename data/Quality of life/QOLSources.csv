@@ -1,0 +1,12 @@
+Data Set,Source,Ranking Method,Granularity Level,Notes
+Special Credit: ASANICZKA,https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties,,County,The first dataset pulled for this project
+2020 Popular Vote,https://www.presidency.ucsb.edu/statistics/elections/2020,Majority Party & Percent Majority,State,
+2021-22 Public Schools,https://catalog.data.gov/dataset/public-school-characteristics-current-8d621,"Race Diversity, Gender Diversity, Student:Teacher ",Site,
+Air Quality,https://www.epa.gov/outdoor-air-quality-data,Number of Days Good / Total Days Measured,State,
+Drinking Water Quality,https://ordspub.epa.gov/ords/sfdw_rest/r/sfdw/sdwis_fed_reports_public/103,Number of Violations / Number of Visits,State,ISO more complete dataset
+2016 Reported Crimes,https://doi.org/10.3886/ICPSR37059.v3,Recorded Cime / Population (per Thousand),FIPS,ISO more recent dataset
+2022 Population Est,https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html,unranked crosswalk,County,
+State Acreage,https://inetsgi.com/images/668/images/88eee3a2.png,unranked crosswalk,State,ISO 1st party dataset
+Parks(Top100bypopulus),https://parkserve.tpl.org/downloads/historic/2023_ParkScoreRank.pdf,ParkServe Scoring,City,ISO more complete dataset
+2022 Unemployment,https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/,Unemployed/Population,FIPS,
+Cost Of Living / Median Income,https://www.epi.org/resources/budget/budget-factsheets/,Total Cost / Median Income,County,
