@@ -1,0 +1,35 @@
+,dtype
+countyhelper,object
+LSTATE,object
+NMCNTY,object
+FIPS,int64
+LZIP,int64
+ULOCALE,object
+Overall Rank,float64
+2022 Population,object
+2016 Crime Rate,object
+Unemployment,object
+2020PopulrVoteParty,object
+2020 PopulrMajor%,object
+AQI%Good,object
+WaterQualityVPV,int64
+ParkScore2023 Rank,int64
+%CvgCityPark,object
+NtnlPrkCnt,int64
+%CvgStatePark,object
+Cost of Living,object
+2022 Median Income,object
+AVG C2I,object
+1p0c,object
+1p1c,object
+1p2c,object
+1p3c,object
+1p4c,object
+2p0c,object
+2p1c,object
+2p2c,object
+2p3c,object
+2p4c,object
+Stu:Tea Rank,int64
+Diversity Rank (Race),int64
+Diversity Rank (Gender),int64
